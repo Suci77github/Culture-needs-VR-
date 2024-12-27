@@ -46,9 +46,4 @@ That sounds like an exciting and impactful project! Here's an outline to help yo
    - **Metrics and KPIs**: Define key performance indicators to measure the project's success.
    - **Impact Analysis**: Assess the project's impact on cultural preservation and community engagement.
 
-This outline should give you a solid foundation to build upon. If you need more detailed guidance on any specific section, feel free to ask!
-
-Source: Conversation with Copilot, 1/10/2024
-(1) The VR Archive Project - ACM SIGGRAPH. https://isea-archives.siggraph.org/wp-content/uploads/2024/08/2023_Abes_The_VR_Archive_Project.pdf.
-(2) [ISEA2023] Paper: Zeynep Abes — The VR Archive Project. https://www.isea-archives.org/isea2023_3rd_snmaa-presentation_abes.
-(3) Developing Virtual Reality Experiences for Archival Collections: Case .... https://meridian.allenpress.com/american-archivist/article/82/2/470/432734/Developing-Virtual-Reality-Experiences-for.
+This outline should give you a solid foundation to build upon.
